@@ -1,6 +1,8 @@
 # Outputs
 results/*
 !results/.gitkeep
+slurm_logs/*
+!slurm_logs/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

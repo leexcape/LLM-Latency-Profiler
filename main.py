@@ -75,7 +75,7 @@ def main():
     model.eval()
 
     # Tokenize
-    inputs = tokenizer(args.prompt, return_tensors="pt")
+    inputs = tokenizer(args.prompt, return_tensors="pt").to(device)
 
     # Generate
     start_time = time.time()
