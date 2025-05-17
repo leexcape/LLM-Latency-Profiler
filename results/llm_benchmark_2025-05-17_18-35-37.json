@@ -1,0 +1,23 @@
+{
+    "timestamp": "2025-05-17_18-35-37",
+    "model_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "prompt": "Once upon a time",
+    "generated_text": "Once upon a time, there was a young woman named Lily. She lived in a small town, where everyone knew each other's names. Lily was a kind and gentle soul, always willing to lend a helping hand to those in need. One day",
+    "response_length": 50,
+    "elapsed_time_sec": 14.96223497390747,
+    "tokens_per_second": 3.3417467435309383,
+    "dtype": "float16",
+    "device_info": {
+        "hostname": "saeid-jetson",
+        "system": "Linux",
+        "machine": "aarch64",
+        "processor": "aarch64",
+        "platform": "Linux-5.15.136-tegra-aarch64-with-glibc2.35",
+        "hardware_model": "NVIDIA Jetson Orin Nano Developer Kit\u0000",
+        "jetson_info": "# R36 (release), REVISION: 3.0, GCID: 36923193, BOARD: generic, EABI: aarch64, DATE: Fri Jul 19 23:24:25 UTC 2024\n# KERNEL_VARIANT: oot\nTARGET_USERSPACE_LIB_DIR=nvidia\nTARGET_USERSPACE_LIB_DIR_PATH=usr/lib/aarch64-linux-gnu/nvidia",
+        "cuda_device_name": "Orin",
+        "cuda_capability": "8.7",
+        "cuda_total_memory_MB": 7620,
+        "nvidia_smi": "nvidia-smi not available or failed"
+    }
+}
