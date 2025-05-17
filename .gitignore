@@ -1,5 +1,5 @@
 # Outputs
-results/*
+# results/*
 !results/.gitkeep
 slurm_logs/*
 !slurm_logs/.gitkeep
@@ -153,9 +153,9 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+# .mypy_cache/
+# .dmypy.json
+# dmypy.json
 
 # Pyre type checker
 .pyre/

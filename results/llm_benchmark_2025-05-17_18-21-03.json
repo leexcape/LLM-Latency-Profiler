@@ -1,0 +1,23 @@
+{
+    "timestamp": "2025-05-17_18-21-03",
+    "model_name": "facebook/opt-350m",
+    "prompt": "Once upon a time",
+    "generated_text": "Once upon a time, there was a man who was a good man.\nHe was a good man who was a good man.\nHe was a good man who was a good man who was a good man who was a good man who was a good man who",
+    "response_length": 50,
+    "elapsed_time_sec": 4.672178268432617,
+    "tokens_per_second": 10.701646454250895,
+    "dtype": "float16",
+    "device_info": {
+        "hostname": "saeid-jetson",
+        "system": "Linux",
+        "machine": "aarch64",
+        "processor": "aarch64",
+        "platform": "Linux-5.15.136-tegra-aarch64-with-glibc2.35",
+        "hardware_model": "NVIDIA Jetson Orin Nano Developer Kit\u0000",
+        "jetson_info": "# R36 (release), REVISION: 3.0, GCID: 36923193, BOARD: generic, EABI: aarch64, DATE: Fri Jul 19 23:24:25 UTC 2024\n# KERNEL_VARIANT: oot\nTARGET_USERSPACE_LIB_DIR=nvidia\nTARGET_USERSPACE_LIB_DIR_PATH=usr/lib/aarch64-linux-gnu/nvidia",
+        "cuda_device_name": "Orin",
+        "cuda_capability": "8.7",
+        "cuda_total_memory_MB": 7620,
+        "nvidia_smi": "nvidia-smi not available or failed"
+    }
+}
